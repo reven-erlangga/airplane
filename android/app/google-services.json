@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956052620602",
+    "project_id": "airplane-e5430",
+    "storage_bucket": "airplane-e5430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956052620602:android:e03348fc9d1722706a7c03",
+        "android_client_info": {
+          "package_name": "com.insodev.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956052620602-5n0vdihg5ikspn6dpgef1cgmnrggs3ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insodev.airplane",
+            "certificate_hash": "7a4589d612c6215cf8ac094787394aced56812a9"
+          }
+        },
+        {
+          "client_id": "956052620602-9rmaq5r3hpcm2bnph31u07svi3325o82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ZUSBHCeboTUQN61yNTznvvzLSkHBTrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956052620602-9rmaq5r3hpcm2bnph31u07svi3325o82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
